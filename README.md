@@ -51,6 +51,6 @@ PhD researcher in Ontologies at IME-USP, passionate about software quality, spec
 ## 📫 Contact
 
 Feel free to connect or collaborate!  
-📧 alexandre.moura@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/alexandremoura)  
-🔗 [GitHub](https://github.com/alexandremoura)
+📧 alelocci@ime.usp.br
+🔗 [LinkedIn](https://linkedin.com/in/alelocci)  
+🔗 [GitHub](https://github.com/AleLocci)
