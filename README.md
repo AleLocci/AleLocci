@@ -1,4 +1,4 @@
-# 👨‍💻 Alexandre Moura
+# 👨‍💻 Alexandre
 
 PhD researcher in Ontologies at IME-USP, passionate about software quality, specification, and intelligent tooling. I combine academic rigor with practical experience in teaching, development, and automation.
 
