@@ -9,7 +9,7 @@ PhD researcher in Ontologies at IME-USP, passionate about software quality, spec
 - 🎓 PhD student at the University of São Paulo (IME-USP)
 - 🧪 Member of LIAMF – Logics, Artificial Intelligence and Formal Methods Lab, coordinated by Prof. Ana Cristina Vieira de Melo
 - 👨‍🏫 Lecturer in Software Engineering, Programming, and Web Development at higher education institutions
-- 🛠️ Developer of training modules for SENAI, focused on software quality and testing
+- 🛠️ Developer of training modules for SENAC, focused on software quality and testing
 - 🤖 Researcher in formal specification using the B Method and Atelier B
 - 🧠 Integrator of LLama-based models with tools like LM Studio, Prodigy, and Visual Paradigm
 
