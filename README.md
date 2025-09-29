@@ -47,6 +47,17 @@ PhD researcher in Ontologies at IME-USP, passionate about software quality, spec
   [liamf.ime.usp.br](https://liamf.ime.usp.br/index.html)
 
 ---
+## 🏆 Achievements
+
+- 🎓 Delivered 8 editions of the course *Software Quality in Java Applications* at the University of São Paulo (USP)
+- ✅ ISTQB Certified Tester – Foundation Level
+- 🧪 Member of LIAMF – Formal Methods Research Group at IME-USP, coordinated by Prof. Ana Cristina Vieira de Melo
+- 🛠️ Developed training modules for SENAI focused on software testing, automation, and quality assurance
+- 🤖 Integrated LLama-based models with LM Studio, Prodigy, and Visual Paradigm for intelligent software analysis
+- 📚 Supervised final-year student projects in software engineering and web development
+- 🧠 Applied the B Method and Atelier B tools in academic and technical contexts
+- 🧮 Designed and delivered technical courses in programming, modeling, and software specification for higher education and industry
+
 
 ## 📫 Contact
 
